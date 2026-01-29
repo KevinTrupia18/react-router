@@ -8,10 +8,10 @@ function Home() {
         // div contenitore
         <div>
 
-      // titolo principale della pagina Home
+
             <h1>Benvenuto nel nostro Store</h1>
 
-      // paragrafo descrittivo
+
             <p>Qui trovi i migliori prodotti online</p>
 
         </div>
